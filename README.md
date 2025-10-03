@@ -1,6 +1,6 @@
 # @peorsp_bot – Pending Orders Splitter Bot
 
-Der Bot hilft dir dabei, deine offenen Verkaufs-Orders aus dem alten **[unCoded Bot](https://t.me/unCoded_bot?start=ref_1203406052)** übersichtlich aufzubereiten.  
+Der Bot hilft dir dabei, deine offenen Verkaufs-Orders aus dem alten **[unCoded Bot](https://t.me/unCoded_bot?start=ref_1203406052)*** übersichtlich aufzubereiten.  
 Statt hunderte einzelner Orders manuell zu sortieren, kannst du mit diesem Bot die Orders automatisch in Preisbereiche ("Splits") zusammenfassen.  
 Das Ergebnis ist eine saubere Liste mit Stückzahl, Limitpreis und Gesamtwert, die du dann in der Börse nachbauen kannst.
 
@@ -56,3 +56,11 @@ Gesamt: 1.115.786.724 = 15.644,64
 ```
 
 So kannst du deine Orders viel einfacher manuell an der Börse eintragen.
+
+## Unterstützung
+
+Du möchtest dich für diese Anleitung bedanken?
+
+<a href="https://www.buymeacoffee.com/WarsoWerk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<sup>Die mit Sternchen (*) gekennzeichneten Links sind sogenannte Affiliate-Links</sup>
